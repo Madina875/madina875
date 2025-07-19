@@ -1,17 +1,17 @@
 <h1 align="center">Hi there, I'm Madina 👋</h1>
 <p align="center">
-  🌸 Passionate Full-Stack Developer | 💖 Love NestJS, GraphQL & Clean Code
+  🌸 Passionate Full-Stack Developer | NestJS, GraphQL & Clean Code
 </p>
 
 ---
 
 ### 🛠️ Technologies I Use
 
-- ⚙️ NestJS, TypeORM, PostgreSQL
+- ⚙️ NestJS, TypeORM, PostgreSQL 
 - 🔐 JWT, Auth Guards, Roles
 - 💅 GraphQL (code-first), Prisma
 - 🧠 REST API, MongoDB
-- 💻 JavaScript, TypeScript, Node.js
+- 💻 JavaScript, TypeScript, Node.js, Python
 - 🧪 Unit Testing, Swagger, Handlebars
 
 ---
@@ -27,9 +27,9 @@
 ### 📫 Contact Me
 
 - GitHub: [@Madina875](https://github.com/Madina875)
-- 💌 Email: _youremail@example.com_ (optional)
-- 💼 Projects: `Dermontin Market`, `My Ticket`, `Mururvat Bot`
+- 💌 Email: evaevasmq@gmail.com
+- 💼 Projects: `hidden`
 
 ---
 
-> "I love creating backend magic and elegant APIs."
+> "Creating backend magic and elegant APIs are in real enjoyable."
