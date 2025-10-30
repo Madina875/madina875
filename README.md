@@ -43,7 +43,7 @@
 
 
 - 📧 **Email:** evaevasmq@gmail.com  
-- 💼 **LinkedIn:** [Your LinkedIn URL here]  
+- 💼 **LinkedIn:** 
 - 🐙 **GitHub:** [https://github.com/Madina875](https://github.com/Madina875)
 
 ---
