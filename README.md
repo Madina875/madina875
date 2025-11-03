@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Madina Saidabdullayeva
+# 👋 Hi, I'm Madina
 
 🎯 **Strong Junior Full-Stack Developer** passionate about building responsive, user-friendly, and scalable web applications.  
 💡 I enjoy transforming ideas into real-world projects using modern web technologies and clean, maintainable code.
