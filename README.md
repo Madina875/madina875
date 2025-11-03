@@ -7,7 +7,7 @@
 
 ### 🧠 About Me
 - 🌱 Currently learning **advanced backend concepts** and improving **system design** skills  
-- 💻 Experienced in both **frontend** (React, Next.js) and **backend** (Express.js, Node.js, Prisma, TypeORM)  
+- 💻 Experienced in both **frontend** (React, Next.js) and **backend** (Express.js, Node.js, Prisma, TypeORM, MongoDB)  
 - 🚀 Love working on projects that combine creativity and logic  
 - 💬 Open to **collaboration**, **open-source contributions**, and **team projects**
 
